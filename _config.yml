@@ -1,6 +1,6 @@
 name: BONEH Ministries
 favicon: null
-layout_spectrum: 0.75488
+layout_spectrum: 0.82472
 typography_spectrum: 0.4973179704975337
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ffab6a'
     - '#b7cab8'
   brandStrength: 0
-  lightness: 0.7047803234308958
+  lightness: 1
   saturation: 0.25873367534950376
   rhythmicContrast: 0.75
 purpose: []
