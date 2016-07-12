@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Restaurando vidas, a través del amor de Jesús. Sin importar tu religión o tus
   tradiciones, sabemos que el amor de Dios puede
-datePublished: '2016-07-12T18:04:08.861Z'
-dateModified: '2016-07-12T18:03:17.296Z'
+datePublished: '2016-07-12T18:25:09.775Z'
+dateModified: '2016-07-12T18:04:18.180Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-12-restaurando-vidas-a-traves-del-amor-de-jesus.md
